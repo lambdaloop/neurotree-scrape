@@ -66,8 +66,8 @@ for row in reader:
 counts = defaultdict(int)
 
 for person in people:
-    # phd = person['post-doc'] # for post-doc rates
     phd = person['phd']
+    # phd = person['post-doc'] # for post-doc rates
     place = person['place']
     if phd == None:
         continue
