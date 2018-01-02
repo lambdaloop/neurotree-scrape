@@ -1,4 +1,3 @@
-
 loc_ids = {
     'UCLA': 315,
     'UW': 464,
@@ -94,8 +93,3 @@ loc_ids = {
     'NYU Medicine': 1251,
     'Wyoming': 473
 }
-
-
-
-
-
