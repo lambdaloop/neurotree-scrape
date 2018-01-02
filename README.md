@@ -1,6 +1,7 @@
 # Neurotree scraping 
 
 This is the code for scraping neurotree to get faculty placement rates.
+Check out the [blog post](http://lambdaloop.com/posts/neuroscience-faculty-placements/) detailing the results.
 
 In order to reproduce my results, run:
 ```bash
